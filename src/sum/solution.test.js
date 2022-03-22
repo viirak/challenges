@@ -1,4 +1,4 @@
-const { sum } = require('./sum');
+const { sum } = require('./solution');
 
 describe('sum function', () => {
     it('sums up two integers', () => {
