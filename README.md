@@ -6,7 +6,7 @@ Coding challenges
 |:--------:|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
 |0001| Array |[Two Sum](https://leetcode.com/problems/two-sum/)|Easy||
 
-## Hackerank
+## Hackerrank
 
 | Domain | Topic    |  Title  |  Difficulty  |  Solution  |
 |:--------:|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
