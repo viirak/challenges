@@ -1,5 +1,13 @@
 Coding challenges
 
+Run mocha test
+
+    mocha src/**/**/**.mjs
+
+Run python test
+
+    python3 -m unittest src/**/**.py
+
 ## Leetcode
 
 | No.    |  Topic  |  Title  |  Difficulty  |  Solution  |
